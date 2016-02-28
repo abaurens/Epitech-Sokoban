@@ -11,7 +11,7 @@ Finaly, runn the game with the following command :
 	$> ./my_sokoban map.txt
 
 You can make your own map with as much boxes as you want.
-Just keep in mind that the game wont work corectly if you don't put the exact same number of box and destination.
+Just keep in mind that the game wont work corectly if you don't put the exact same number of box and destination blocks.
 
 For the maps :
 	The map have to be a rectangle.
