@@ -14,10 +14,12 @@ You can make your own map with as much boxes as you want.
 Just keep in mind that the game wont work corectly if you don't put the exact same number of box and destination.
 
 For the maps :
-	'#' are walls blocs.
+	The map have to be a rectangle.
+	'#' are walls blocks.
 	'P' is the player. (just one in the map or the game wont start.
-	'X' are boxes.
-	'O' are destinations for boxes.
+	'X' are boxes blocks.
+	'O' are destinations blocks (position where you have to put the boxes).
+	' ' are empty blocks.
 
 You can control the player movements by pressing the arrows keys.
 You can reset the game by pressing the spaceBar key.
