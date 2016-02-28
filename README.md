@@ -22,4 +22,4 @@ For the maps :
 	' ' are empty blocks.
 
 You can control the player movements by pressing the arrow keys.
-You can reset the game by pressing space bar key.
+You can reset the game by pressing space bar.
