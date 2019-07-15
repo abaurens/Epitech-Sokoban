@@ -4,11 +4,15 @@ A basic sokoban game made with termcaps. Posibility to create your own map (nece
 First download the source :
 $> git clone https://github.com/arthur111213/Sokoban.git
 
-then compile the mrpgramm with CMake :
+then compile the program with Gnu Make :
+```
 $> make
+```
 
 Finaly, run the game with the following command :
+```
 $> ./my_sokoban map.txt
+```
 
 You can make your own map with as much boxes as you want.
 Just keep in mind that the game wont work correctly if you don't put the exact same number of boxes and destinations blocks.
